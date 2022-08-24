@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MOREJJJ
 - 👀 I’m interested in ...Data 
-- 🌱 I’m currently learning ...Data analyst
+- 🌱 I’m currently learning ...Data analysis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
